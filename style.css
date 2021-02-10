@@ -167,4 +167,20 @@ html{
     background: none;
 }
 
-about section styling
+/*about section styling*/
+section{
+    padding: 100px 0;
+}
+.about{
+    font-family: 'Poppins', sans-serif;
+}
+.about .title{
+    text-align: center;
+    
+    font-family: 'Ubuntu',sans-serif;
+}
+.about .about-content .left img{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
